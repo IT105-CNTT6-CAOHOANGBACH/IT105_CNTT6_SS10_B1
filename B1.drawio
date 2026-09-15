@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36">
+  <diagram id="2YBvvXClWsGukQMizWep" name="Page-1">
+    <mxGraphModel dx="959" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="&lt;span style=&quot;color: rgb(199, 37, 78); font-family: SFProDisplay; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;:Màn hình UI&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="420" width="100" x="250" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-9" parent="aM9ryv3xv72pqoxQDRHE-1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="300" width="10" x="45" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="&lt;span style=&quot;color: rgb(199, 37, 78); font-family: SFProDisplay; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;:AuthServer&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="420" width="100" x="440" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-15" parent="aM9ryv3xv72pqoxQDRHE-5" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="55" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-16" edge="1" parent="aM9ryv3xv72pqoxQDRHE-5" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="5Ks9xiIjStUM6056-Uvj-15" value="&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-family: SFProDisplay; white-space: normal; color: rgb(199, 37, 78); font-size: 14px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; line-height: 16.1px;&quot;&gt;checkCredentials()&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-family: SFProDisplay; white-space: normal; font-size: 14px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;box-sizing: border-box; margin: 0px; padding: 0px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="75" y="70.03" />
+              <mxPoint x="75" y="100.02999999999997" />
+            </Array>
+            <mxPoint x="55" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-17" parent="aM9ryv3xv72pqoxQDRHE-5" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="270" width="10" x="45" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" value="" vertex="1">
+          <mxGeometry height="420" width="20" x="120" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Khách hàng" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-5" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="">
+          <mxGeometry relative="1" width="80" x="0.1809" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="125.15034482758617" y="160" as="sourcePoint" />
+            <mxPoint x="294.84" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(199, 37, 78); font-family: SFProDisplay; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;nhapThongTin(username, password)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="140" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-11" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="">
+          <mxGeometry relative="1" width="80" x="0.1809" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="340" y="170" as="sourcePoint" />
+            <mxPoint x="480" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(199, 37, 78); font-family: SFProDisplay; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;verifyAccount()&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="350" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-19" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" value="ALT" vertex="1">
+          <mxGeometry height="230" width="550" x="50" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ko hợp lệ" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-22" edge="1" parent="1" source="5Ks9xiIjStUM6056-Uvj-19" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=-0.002;exitY=0.452;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.996;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="92.80000000000005" y="345.63000000000005" as="sourcePoint" />
+            <mxPoint x="597.19" y="344.36999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Hợp lệ" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-24" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" target="5Ks9xiIjStUM6056-Uvj-2" value="">
+          <mxGeometry relative="1" x="1" y="-80" as="geometry">
+            <mxPoint x="-70" y="40" as="offset" />
+            <mxPoint x="290" y="420" as="sourcePoint" />
+            <mxPoint x="140" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: SFProDisplay; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;hiển thị Trang chủ.&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="40" width="165" x="127.5" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-28" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1.5;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;" target="5Ks9xiIjStUM6056-Uvj-9" value="">
+          <mxGeometry relative="1" x="-0.2222" y="50" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="490" y="369.9" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-family: SFProDisplay; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;trả về Token thành công&lt;/span&gt;" vertex="1">
+          <mxGeometry height="10" width="150" x="320" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-32" edge="1" parent="1" source="5Ks9xiIjStUM6056-Uvj-17" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" target="5Ks9xiIjStUM6056-Uvj-9" value="">
+          <mxGeometry relative="1" x="1" y="-80" as="geometry">
+            <mxPoint x="-70" y="40" as="offset" />
+            <Array as="points">
+              <mxPoint x="400" y="290" />
+            </Array>
+            <mxPoint x="480" y="270" as="sourcePoint" />
+            <mxPoint x="350" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;&lt;span style=&quot;font-family: SFProDisplay; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;lỗi &quot;Sai mật khẩu&quot;&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="165" x="312.5" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-34" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="">
+          <mxGeometry relative="1" x="1" y="-80" as="geometry">
+            <mxPoint x="-70" y="40" as="offset" />
+            <mxPoint x="290" y="300" as="sourcePoint" />
+            <mxPoint x="130" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Ks9xiIjStUM6056-Uvj-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-family: SFProDisplay; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;hiển thị cảnh báo lỗi.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="165" x="129" y="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
